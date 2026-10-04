@@ -1,1 +1,1 @@
-{"name":"hill-climb-iraq","version":"1.2.0","private":true,"scripts":{"sync":"cap sync android"},"dependencies":{"@capacitor/android":"^6.1.2","@capacitor/cli":"^6.1.2","@capacitor/core":"^6.1.2"}}
+{"name":"hill-climb-iraq","version":"1.4.0","private":true,"scripts":{"sync":"cap sync android"},"dependencies":{"@capacitor/android":"^6.1.2","@capacitor/cli":"^6.1.2","@capacitor/core":"^6.1.2","@capacitor/preferences":"^6.0.2"}}
